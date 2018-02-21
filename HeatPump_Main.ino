@@ -1,17 +1,6 @@
 // ============================================================
-// Example:     LCDML: display liquid crystal
-// ============================================================
-// Autor:       Nils Feldkämper
-// Last update: 08.01.2017
-// License:     MIT
-// ============================================================
-// Descripton:
-// This example shows you, how to use this lib with LiquidCrystal
-// lib. The LCD object have to create in this tab. In "LCDML_DISO"
-// you can edit the layout of the menu. (content, cursor, scrollbar)
-//
-// When you rewrite this function, you can use every other LCD
-// or graphic LCD Lib with this menu.
+// Управление за термопомпа 
+// от Тони Стоянов aka frxbg
 // ============================================================
 
 // include libs
